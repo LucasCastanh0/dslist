@@ -41,7 +41,7 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/matheusgmello/dslist-backend
+git clone https://github.com/LucasCastanh0/dslist
 
 # entrar na pasta do projeto back end
 cd dslist
