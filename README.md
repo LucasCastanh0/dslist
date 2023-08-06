@@ -20,7 +20,7 @@ Os usuários podem realizar buscas com base no gênero e na classificação dos 
 - `POST list replacement`: Organiza a lista como o usuário preferir
 
 ## Retorno da API
-![App Screenshot](https://github.com/matheusgmello/dslist-backend/blob/ea73c3a2f73d0ed3a3dc308fa81e5f8bfeee4179/assets/retorno%20api%20end%20point.png)
+![App Screenshot](https://github.com/LucasCastanh0/dslist/blob/main/src/assets/retorno%20Api%20.png)
 
 # Tecnologias utilizadas
 
